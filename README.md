@@ -1,5 +1,5 @@
-# bankers-Algorithm
-Bnakers Algorithm for operating system<br>
+# Bankers-Algorithm
+Bankers Algorithm for operating system<br>
 
 
 
